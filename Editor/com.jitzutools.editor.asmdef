@@ -1,0 +1,17 @@
+{
+    "name": "com.jitzutools.editor",
+    "references": [
+        "GUID:aaf83621a36216841b801d2ddd032cbe"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

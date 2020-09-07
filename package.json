@@ -1,0 +1,20 @@
+{
+  "name": "com.jitzutools",
+  "version": "1.0.0",
+  "displayName": "Jitzu Tools",
+  "description": "Tools for dev",
+  "unity": "2019.1",
+  "unityRelease": "8f1",
+  "keywords": [
+    "jitzu",
+    "jitzutools",
+    "tools"
+  ],
+  "author": {
+    "name": "Josue",
+    "email": "josue@jitzu.mx",
+    "url": "www.jitzu.mx"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
