@@ -1,8 +1,8 @@
 {
   "name": "com.jitzutools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Jitzu Tools",
-  "description": "Tools for dev",
+  "description": "Tools for making my dev life easier",
   "unity": "2019.1",
   "unityRelease": "8f1",
   "keywords": [
