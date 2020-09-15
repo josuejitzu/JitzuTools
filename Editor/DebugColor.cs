@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace JitzuTools
+namespace JitzuTools.DebugColor
 {
     /// <summary>
     /// Formatea el texto en consola para que sea mas visible durante el desarrollo
